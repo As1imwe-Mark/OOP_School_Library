@@ -7,7 +7,6 @@ class Person
 
   attr_accessor :name, :age
 
-
   private
 
   def of_age?
