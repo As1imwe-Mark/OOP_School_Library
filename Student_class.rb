@@ -1,5 +1,5 @@
 class Student < Person
-  def initialize(id, age, classroom, name = "Unknown", parent_permission = true)
+  def initialize(_id, age, classroom, name = 'Unknown', parent_permission: true)
     super(name, age, parent_permission)
     @classroom = classroom
   end
@@ -7,6 +7,6 @@ class Student < Person
   attr_reader :classroom
 
   def play_hooky
-    "¯\\(ツ)/¯"
+    '¯\\(ツ)/¯'
   end
 end
