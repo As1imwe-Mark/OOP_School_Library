@@ -122,6 +122,6 @@ We would like to thank Microverse the opportunity.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([OOP_School_Library](https://github.com/As1imwe-Mark/OOP_School_Library)/LICENSE).
+This project is [MIT](https://github.com/As1imwe-Mark/OOP_School_Library)/LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
